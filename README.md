@@ -27,3 +27,13 @@ Telecharger les assets sur Teams et les placer dans le dossier `assets` du proje
 ```bash
 npm run reset-project
 ```
+
+## Navigation avec expo-router
+
+## Affichage d'image
+
+Il faut installer `expo-image` avec la commande :
+
+```bash
+npx expo install expo-image
+```
